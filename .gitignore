@@ -1,0 +1,11 @@
+.gradle/
+.kotlin/
+.idea/
+build/
+local.properties
+*.iml
+.DS_Store
+
+# Local recordings used for timing checks
+/stash/
+/video_*.mp4
