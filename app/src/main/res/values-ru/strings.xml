@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Метроном</string>
+    <string name="bpm">BPM</string>
+    <string name="tempo_description">Ударов в минуту · %1$d</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="tempo_up">Увеличить темп</string>
+    <string name="tempo_down">Уменьшить темп</string>
+    <string name="ready_beats">Долей в такте · %1$d</string>
+    <string name="active_beat">Доля %1$d из %2$d</string>
+    <string name="settings">Настройки</string>
+    <string name="tap_tempo">Задать темп</string>
+    <string name="tap_tempo_hint">Нажимай в ритм · %1$d BPM</string>
+    <string name="beats_per_bar">Долей в такте</string>
+    <string name="beats_up">Добавить долю</string>
+    <string name="beats_down">Убрать долю</string>
+    <string name="sound">Звук</string>
+    <string name="vibration">Вибрация</string>
+    <string name="regular_vibration">Сила слабой доли</string>
+    <string name="accent_vibration">Сила сильной доли</string>
+    <string name="vibration_level_value">%1$d%%</string>
+    <string name="vibration_weaker">Ослабить вибрацию</string>
+    <string name="vibration_stronger">Усилить вибрацию</string>
+    <string name="indicator_offset">Сдвиг индикатора</string>
+    <string name="indicator_offset_value">%1$s мс</string>
+    <string name="indicator_offset_hint">− раньше · + позже</string>
+    <string name="indicator_earlier">Показывать долю раньше</string>
+    <string name="indicator_later">Показывать долю позже</string>
+</resources>

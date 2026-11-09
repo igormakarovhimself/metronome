@@ -1,0 +1,8 @@
+schema: spec-driven
+
+context: |
+  Wear Metronome is a standalone Wear OS app for practicing music.
+  The app uses Kotlin, Wear Compose Material 3, and a continuous PCM AudioTrack.
+  It targets round watch screens and supports Android API 30 and above at runtime.
+  The audio presentation timeline drives clicks, haptics, and the beat indicator.
+  Device measurements help tune timing. Physical output depends on the watch and route.

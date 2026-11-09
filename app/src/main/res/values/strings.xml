@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Metronome</string>
+    <string name="bpm">BPM</string>
+    <string name="tempo_description">Beats per minute · %1$d</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="tempo_up">Increase tempo</string>
+    <string name="tempo_down">Decrease tempo</string>
+    <string name="ready_beats">Beats per bar · %1$d</string>
+    <string name="active_beat">Beat %1$d of %2$d</string>
+    <string name="settings">Settings</string>
+    <string name="tap_tempo">Tap tempo</string>
+    <string name="tap_tempo_hint">Tap in rhythm · %1$d BPM</string>
+    <string name="beats_per_bar">Beats per bar</string>
+    <string name="beats_up">Add a beat</string>
+    <string name="beats_down">Remove a beat</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="regular_vibration">Weak beat strength</string>
+    <string name="accent_vibration">Strong beat strength</string>
+    <string name="vibration_level_value">%1$d%%</string>
+    <string name="vibration_weaker">Decrease vibration strength</string>
+    <string name="vibration_stronger">Increase vibration strength</string>
+    <string name="indicator_offset">Beat indicator timing</string>
+    <string name="indicator_offset_value">%1$s ms</string>
+    <string name="indicator_offset_hint">− earlier · + later</string>
+    <string name="indicator_earlier">Show the beat earlier</string>
+    <string name="indicator_later">Show the beat later</string>
+</resources>
